@@ -6,6 +6,7 @@ Lab coursework and project for *Power Electronics*, KU Leuven (Campus Group T) â
 
 | Lab | Topic | Status |
 |---|---|---|
+| [`lab-1`](./lab-1) | Thyristor, TRIAC, MOSFET/IGBT switching & clamping circuits | Done |
 | [`lab-3`](./lab-3) | Charge pump power supplies (LT1054) & step-down converter (LM2575) | Done |
 
 ## Project
