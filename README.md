@@ -11,7 +11,9 @@ Lab coursework and project for *Power Electronics*, KU Leuven (Campus Group T) �
 
 ## Project
 
-To be added.
+| Project | Topic | Status |
+|---|---|---|
+| [`project`](./project) | DC-DC heavy vehicle converter (24V→12V, 5A) — design, PCB, bench validation | Done |
 
 ## Author
 
